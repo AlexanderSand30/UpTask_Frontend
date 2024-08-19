@@ -1,8 +1,8 @@
 # DEMO DEL SISTEMA
 - url: https://up-task-frontend-rho.vercel.app/
 - Credenciales:
-  . email: admi@correo.com
-  . password: admin12345
+  email: admin@correo.com
+  password: admin12345
 
 # React + TypeScript + Vite
 
